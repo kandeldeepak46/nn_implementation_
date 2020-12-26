@@ -1,1 +1,1 @@
-Heart Diseae Prediction Using Neural Network From Scratch
+Heart Diseaes Prediction Using Neural Network From Scratch
